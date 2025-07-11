@@ -43,16 +43,16 @@ github - https://github.com/clarobit
 - STM32CubeIDE (HAL 기반 펌웨어 개발)
 - RViz, RQt, Gazebo (ROS2 시뮬레이션 및 시각화 도구)
 
-
-
-## 📌 Featured Projects
+## 🚀 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🏥 Hospital Assistant Robot](https://github.com/goodboy-kor/portfolio-hospital-robot) | Automates repetitive hospital tasks like medicine delivery, patient monitoring | ROS2, MoveIt, Tkinter |
+| [졸업 작품](https://github.com/clarobit/graduation_ws) | 병원 실내 안내 로봇 | OpenAI API |
+| [Bloom for you](git@github.com:d-1world/bloom_for_you.git) | ROKEY 부트캠프로 진행한 프로젝트 | 무슨 기술 썼는지 |
+| [ROKEY2 dr_writer](깃허브링크) | 뭐하는 건지 | 무슨 기술 썼는지 |
+| [회사 프로젝트](깃허브링크) | 뭐하는 건지 | 무슨 기술 썼는지 |
+| [졸업 작품](깃허브링크) | 뭐하는 건지 | 무슨 기술 썼는지 |
+
+
+
 | [🐢 TurtleBot Line Follower](https://github.com/goodboy-kor/portfolio-line-follower) | PID vs Pure Pursuit comparison for line tracking | OpenCV, ROS2 |
 | [🎮 GUI Controller for Robots](https://github.com/goodboy-kor/portfolio-ros2-gui) | Desktop GUI to control ROS2 robot states and actions | Python, Tkinter, ROS2 |
-
-## 📫 Contact
-- ✉️ Email: your.email@example.com
-- 💼 LinkedIn: [YourName](https://linkedin.com/in/yourname)
-- 🌐 Portfolio Site (optional): https://yourportfolio.com

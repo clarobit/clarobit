@@ -47,8 +47,8 @@ github - https://github.com/clarobit
 | Project | Description | Tech |
 |--------|-------------|------|
 | [졸업 작품](https://github.com/clarobit/graduation_ws) | 병원 실내 안내 로봇 | OpenAI API |
-| [Bloom for you](git@github.com:d-1world/bloom_for_you.git) | ROKEY 부트캠프로 진행한 프로젝트 | 무슨 기술 썼는지 |
-| [ROKEY2 dr_writer](깃허브링크) | 뭐하는 건지 | 무슨 기술 썼는지 |
+| [Bloom for you](https://github.com/d-1world/bloom_for_you.git) | ROKEY 부트캠프로 진행한 프로젝트 | 무슨 기술 썼는지 |
+| [ROKEY2 dr_writer](https://github.com/Rokey-3-D-2/dr_writer.git) | 뭐하는 건지 | 무슨 기술 썼는지 |
 | [회사 프로젝트](깃허브링크) | 뭐하는 건지 | 무슨 기술 썼는지 |
 | [졸업 작품](깃허브링크) | 뭐하는 건지 | 무슨 기술 썼는지 |
 

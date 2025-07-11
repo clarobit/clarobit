@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm SeokHwan (clarobit)
 
-<!--
-**clarobit/clarobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a robotics engineer / developer passionate about building real-world automation and AI solutions.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 🤖 **Robotics:** ROS2, MoveIt, TurtleBot, Gazebo
+- 🧠 **AI / Vision:** OpenCV, YOLO, TensorFlow
+- ⚙️ **Languages:** Python, C++, Bash
+- 🧩 **Tools:** Git, Docker, Ubuntu, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🏥 Hospital Assistant Robot](https://github.com/goodboy-kor/portfolio-hospital-robot) | Automates repetitive hospital tasks like medicine delivery, patient monitoring | ROS2, MoveIt, Tkinter |
+| [🐢 TurtleBot Line Follower](https://github.com/goodboy-kor/portfolio-line-follower) | PID vs Pure Pursuit comparison for line tracking | OpenCV, ROS2 |
+| [🎮 GUI Controller for Robots](https://github.com/goodboy-kor/portfolio-ros2-gui) | Desktop GUI to control ROS2 robot states and actions | Python, Tkinter, ROS2 |
+
+## 📫 Contact
+- ✉️ Email: your.email@example.com
+- 💼 LinkedIn: [YourName](https://linkedin.com/in/yourname)
+- 🌐 Portfolio Site (optional): https://yourportfolio.com
